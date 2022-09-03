@@ -1,0 +1,47 @@
+.hero {
+    width: 550px;
+
+    background-color: #fff;
+}
+
+.hero-photo {
+    width: 395.91px;
+    height: 232px;
+
+    margin-top: 26px;
+    margin-left: 77px;
+    margin-right: 77.09px;
+}
+
+.hero-header {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 110%;
+    /* identical to box height, or 40px */
+
+    color: #000000;
+
+    margin-left: 36px;
+    margin-right: 167px;
+    margin-top: 32px;
+}
+
+.hero-text {
+    font-family: "Poppins";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 110%;
+    /* or 18px */
+
+    color: #222222;
+
+    width: 320px;
+    height: 56px;
+
+    margin-top: 16px;
+    margin-left: 36px;
+    margin-right: 193px;
+}
